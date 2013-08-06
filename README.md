@@ -27,4 +27,5 @@ _Note that this template will generate files in the current directory, so be sur
 
 
 
-Dependencies:
+This project is a fork and heavily reliant on Ben Altman's grunt-init-node
+https://github.com/gruntjs/grunt-init-node
