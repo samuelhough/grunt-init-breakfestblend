@@ -1,6 +1,6 @@
 # grunt-init-breakfestblend
 
-> Create a Node.js module with [grunt-init][] using coffeescript and including mocha for unit tests.
+> Create a Node.js module with [grunt-init][] using coffeescript while using mocha for unit tests.
 
 [grunt-init]: http://gruntjs.com/project-scaffolding
 
