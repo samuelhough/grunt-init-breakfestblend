@@ -1,6 +1,6 @@
-# grunt-init-node
+# grunt-init-breakfestblend
 
-> Create a Node.js module with [grunt-init][], including Nodeunit unit tests.
+> Create a Node.js module with [grunt-init][] using coffeescript and including mocha for unit tests.
 
 [grunt-init]: http://gruntjs.com/project-scaffolding
 
@@ -24,3 +24,7 @@ grunt-init node
 ```
 
 _Note that this template will generate files in the current directory, so be sure to change to a new directory first if you don't want to overwrite existing files._
+
+
+
+Dependencies:
