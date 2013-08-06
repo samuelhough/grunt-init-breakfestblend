@@ -1,0 +1,4 @@
+{
+  "lib/name.coffee": "lib/{%= name %}.coffee",
+  "test/unit/name.coffee": "test/unit/{%= name %}_test.coffee"
+}
