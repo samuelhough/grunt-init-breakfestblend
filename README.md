@@ -26,6 +26,9 @@ grunt-init node
 _Note that this template will generate files in the current directory, so be sure to change to a new directory first if you don't want to overwrite existing files._
 
 
+### Thanks
+This project is a fork and heavily reliant on Ben Altman's grunt-init-node
+https://github.com/gruntjs/grunt-init-node
 
-_This project is a fork and heavily reliant on Ben Altman's grunt-init-node
-_https://github.com/gruntjs/grunt-init-node
+This project uses the mocha structure and setup from Chris Abram's 'Node-Mocha-CoffeeScript-Starter' kit.
+https://github.com/samuelhough/Node-Mocha-CoffeeScript-Starter
